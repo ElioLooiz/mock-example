@@ -1,7 +1,9 @@
 {
   "Brand": {
     "synonyms": {
-      "string": ["test", "qwe"]
+      "string": {
+        "array": "string",
+      }
     }
   }
 }

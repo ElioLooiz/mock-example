@@ -1,9 +1,5 @@
 {
   "Brand": {
-    "synonyms": {
-      "string": {
-        "array": "string"
-      }
-    }
+    "synonyms": "colorName",
   }
 }

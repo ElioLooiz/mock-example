@@ -2,7 +2,7 @@
   "Brand": {
     "synonyms": {
       "string": {
-        "array": "string",
+        "array": "string"
       }
     }
   }

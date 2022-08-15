@@ -1,5 +1,7 @@
 {
-  "Brands": {
-    "synonyms": ["Ford", "BMW", "Fiat"]
+  "Test": {
+    "Brands": {
+      "synonyms": ["Ford", "BMW", "Fiat"]
+    }
   }
 }

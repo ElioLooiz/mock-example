@@ -1,8 +1,5 @@
 {
   "Brands": {
-    "synonyms": [
-      "123",
-      "222",
-    ],
+    "synonyms": ["Ford", "BMW", "Fiat"],
   }
 }
